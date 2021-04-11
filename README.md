@@ -1,2 +1,3 @@
 # 🌱 学习中...
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liqing-code)](https://github.com/anuraghazra/github-readme-stats)
+<img src="./logo.svg" width = "300" height = "200" alt="头像" align=right />
