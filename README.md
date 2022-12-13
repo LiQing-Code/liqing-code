@@ -1,6 +1,4 @@
 # 🌱 学习中...
-个人开发者，在学习 ASP.NET、WPF、VUE
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liqing-code&show_icons=true&include_all_commits=true&count_private=true"/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liqing-code&layout=compact&langs_count=6"/>
 
